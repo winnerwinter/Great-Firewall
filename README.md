@@ -1,6 +1,6 @@
 # Great-Firewall
 
-A network security project that investigates the on-path "Great Firewall of China"
+A network security project completed by myself and my good friend [Danny Deng-Winter](https://github.com/winnerwinter?tab=overview&from=2017-01-18) that investigates the on-path "Great Firewall of China"
 
 #### 1. Proof ####
 - Show via direct TCP connection to a server in China the existance of the Great firewall
